@@ -1,7 +1,7 @@
 # Speech2text_SettingTheESP32
 ## Convert the speech to text
 ## Setting up the ESP32
-* First open the arduino ide then 
+* First open the arduino IDE  
 * Then go to file(ملف) -> Preferences(تفضيلات)
 ![alt text](https://github.com/Maashn5/Speech2text_SettingTheESP32/blob/main/Setting_ESP32/Picture1.png)
 * In the Additional Board Manager URLs(تدبير عناوين اللوحات الإضاقية) paste this URL (https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json) -> Ok(موافق)
