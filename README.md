@@ -1,0 +1,1 @@
+# Speech2text_SettingTheESP32
