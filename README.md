@@ -1,8 +1,8 @@
 # Speech2text_SettingTheESP32
 ## Convert the speech to text
-Here is the code of website which convert speech to text in both arabic & english languages
+Here is the code of a website which convert speech to text in both arabic & english languages
 <br/> Here we are using the speechRecognition API interface which isn't supported in all browsers,
-<br/> so I suggest to use google chrome to launch this website. 
+<br/> So I suggest to use google chrome browser to launch this website. 
 <br/> here is the html code
 ```html
 <!DOCTYPE html>
